@@ -1,0 +1,8 @@
+
+a:link {
+    transition: all .5s linear 0;
+    color: hsl(36,50%,50%);
+}
+a:hover {
+    color: hsl(36,100%,50%);
+}
